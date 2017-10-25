@@ -1,1 +1,2 @@
 file 1 created for testing cherry-pick command
+line 2 added
