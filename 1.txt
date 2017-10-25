@@ -1,2 +1,4 @@
-file 1 created for testing cherry-pick command
+file 1 created for testing cherry-pick comman
 line 2 added
+line 2 added by user1
+
