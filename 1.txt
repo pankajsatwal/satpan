@@ -7,4 +7,4 @@ line1 added by user2
 line2 added by user2
 ------------------Rebase Test-----------
 line 3 added ny user2
-
+line 4 added ny user2
